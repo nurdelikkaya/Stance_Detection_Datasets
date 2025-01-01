@@ -1,4 +1,4 @@
 # Stance_Detection_Datasets
 
-*MT-CSD*: the files named trump_stance, biden_stance, etc. will be used for stance detection. there are 5 of them in total.
-*VAST*: the file named VAST_stance.csv will be used for stance detection.
+*MT-CSD*: MT-CSD_dev.csv, MT-CSD_train.csv, MT-CSD_test.csv
+*VAST*: VAST_dev.csv, VAST_train.csv, VAST_test.csv
